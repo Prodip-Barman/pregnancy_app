@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487267719805",
+    "project_id": "pregnency-3dd81",
+    "storage_bucket": "pregnency-3dd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487267719805:android:31a4aacc0ba9f93fe96f14",
+        "android_client_info": {
+          "package_name": "com.example.pregnency_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487267719805-01aujhb9b9kjgh520ionr58c248qkrjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pregnency_app",
+            "certificate_hash": "8f836689decaec0c49b7a47df525af34408ae9cf"
+          }
+        },
+        {
+          "client_id": "487267719805-3lfb7746duff0184ju2l7dcit8o815i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWmdIlgfcQGTKSex-QO1RZq6NPrdHsuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487267719805-3lfb7746duff0184ju2l7dcit8o815i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
